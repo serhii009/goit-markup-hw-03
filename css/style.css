@@ -44,6 +44,7 @@ img {
 }
 
 .header {
+    border-bottom: 1px solid #e7e9fc
 }
 
 .header-navigate {
@@ -66,6 +67,8 @@ text-transform: uppercase;
 
 .header-logo-color {
   color: #2e2f42;
+    padding-bottom: 24px;
+    padding-top: 24px;
 }
 
 .header-menu-list {
@@ -244,7 +247,7 @@ color: #2e2f42;
 }
 
 .team-cart {
-    
+
 }
 
 .team-menu-item {
