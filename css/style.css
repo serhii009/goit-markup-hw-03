@@ -61,8 +61,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
   color: #4d5ae5;
   margin-right: 76px;
-  padding-bottom: 24px;
-    padding-top: 24px;
+padding: 24px 0;
 }
 
 .header-logo-color {
@@ -97,6 +96,7 @@ color: #2e2f42;
 
 .header-menu-item__link {
     color: #2e2f42;
+    padding: 24px 0;
 }
 .header-contacts {
     font-style: normal;
@@ -106,8 +106,6 @@ color: #2e2f42;
     display: flex;
     align-items: center;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .header-contacts-item {
@@ -129,6 +127,7 @@ font-style: normal;
 
 .header-contacts-item__link {
     color: #434455;
+    padding: 24px 0;
 }
 
 
