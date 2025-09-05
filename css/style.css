@@ -249,7 +249,7 @@ color: #2e2f42;
 }
 
 .team-cart {
-
+    padding: 32px 0
 }
 
 .team-menu-item {
@@ -267,7 +267,6 @@ line-height: 120%;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
-margin-top: 32px;
 margin-bottom: 8px;
 }
 
