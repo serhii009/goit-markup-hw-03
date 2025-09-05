@@ -185,12 +185,12 @@ border: none;
     padding-bottom: 120px;
 }
 .features-menu-list {
-    display: flex;
-    width: calc(100% - 3 * 24px / 4);
+    display: flex; 
+    gap: 24px;
 }
 .features-menu-item {
     background-color: #FFFFFF;
-
+ width: calc((100% - 3 * 24px) / 4);
 }
 .features-item-title {
 font-weight: 500;
